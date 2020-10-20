@@ -1,6 +1,2 @@
 Hello Mathes
-<<<<<<< HEAD
 this in dev yet
-=======
-and changes in master
->>>>>>> ba90e52... change dev file in master
