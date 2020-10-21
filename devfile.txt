@@ -6,3 +6,5 @@ to push
 update on github
 
 edited on github
+
+edit on git 2
