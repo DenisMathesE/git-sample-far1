@@ -7,3 +7,5 @@ this is dev branch
 before merge from master
 
 edited on mac
+and
+edit on github
